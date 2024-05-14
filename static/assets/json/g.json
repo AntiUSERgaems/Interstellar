@@ -147,7 +147,7 @@
   },
   {
     "name": "Age of War",
-    "link": "https://age-of-war.game-files.crazygames.com/ruffle/ageofwar.html",
+    "link": "https://ageofwargame.io/",
     "image": "/assets/media/icons/ageofwar.webp",
     "categories": ["all", "2P"]
   },
@@ -171,7 +171,7 @@
   },
   {
     "name": "3 Slices",
-    "link": "https://images-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%2F3-slices.xml",
+    "link": "https://freegames.org/3-slices/",
     "image": "/assets/media/icons/3slices.webp",
     "categories": ["all"]
   },
@@ -209,12 +209,6 @@
     "name": "Tyran.io",
     "link": "https://tyran.io",
     "image": "/assets/media/icons/tyranio.webp",
-    "categories": ["all", "2P"]
-  },
-  {
-    "name": "Arras.io",
-    "link": "https://arras.io/",
-    "image": "/assets/media/icons/arrasio.webp",
     "categories": ["all", "2P"]
   },
   {
@@ -694,14 +688,8 @@
     "categories": ["all,", "2P"]
   },
   {
-    "name": "1",
-    "link": "/e/1/index.html",
-    "image": "/assets/media/icons/1.webp",
-    "categories": ["all", "local"]
-  },
-  {
     "name": "1v1.LOL",
-    "link": "https://1v1.lol",
+    "link": "https://selenite-old-nine.vercel.app/1v1lol/index.html",
     "image": "/assets/media/icons/1v1-lol.webp",
     "categories": ["all,", "2P"]
   },
@@ -725,7 +713,7 @@
   },
   {
     "name": "8 Ball Pool",
-    "link": "https://8ball-pool.io",
+    "link": "https://playhop.com/app/166002?utm_medium=search&utm_source=google&utm_campaign=en-usa_playhop_dsa_title_all_google_search|21175193443&utm_content=k50id|dsa-1466354422970|cid|21175193443|aid|696075162180|gid|169368341028|pos||src|g_|dvc|c|reg|9051570|rin||&utm_term=",
     "image": "/assets/media/icons/8ball.webp",
     "categories": ["all"]
   },
@@ -736,18 +724,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Ace Attorney",
-    "link": "https://f.kbhgames.com/r/gba/?r=ace-attorney",
-    "image": "/assets/media/icons/aa.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "AC - Wild World",
-    "link": "https://static.arcadespot.com/retroemulator.php?system=nds&game=2017/10/animal-crossing-wild-world1.zip",
-    "image": "/assets/media/icons/acww.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Adventure Capitalist",
     "link": "https://than1089.github.io/adventure-capitalist/",
     "image": "/assets/media/icons/adventure-capitalist.webp",
@@ -755,25 +731,19 @@
   },
   {
     "name": "Agar.io",
-    "link": "https://agar.io",
+    "link": "https://sigmally.com/",
     "image": "/assets/media/icons/agario.webp",
     "categories": ["all"]
   },
   {
-    "name": "Among Us (Scratch)",
-    "link": "https://turbowarp.org/523967150/fullscreen",
+    "name": "Among Us, Kinda?",
+    "link": "https://amongusplay.online/#invite",
     "image": "/assets/media/icons/scratch-among-us.webp",
     "categories": ["all"]
   },
   {
-    "name": "Apex Legends",
-    "link": "https://play.geforcenow.com/games?game-id=cb2b1b5f-54ba-45fd-9839-96bbfe1376cd&lang=en_US&asset-id=01_c6efce00-e91e-402a-8b72-f4971f89c528",
-    "image": "/assets/media/icons/apex.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "Basket Random",
-    "link": "https://html5.gamedistribution.com/rvvASMiM/bf1268dccb5d43e7970bb3edaa54afc8/index.html",
+    "link": "https://www.twoplayergames.org/embed/basket-random",
     "image": "/assets/media/icons/br.webp",
     "categories": ["all"]
   },
@@ -785,7 +755,7 @@
   },
   {
     "name": "Basketball Bros",
-    "link": "https://www.basketbros.io/",
+    "link": "https://orcatech2711.github.io/nano/games/basketbros/index.html",
     "image": "/assets/media/icons/basket-bros.webp",
     "categories": ["all"]
   },
@@ -1548,12 +1518,6 @@
     "categories": ["all", "emu", "android"]
   },
   {
-    "name": "Android",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.uncube.launcher3&partner=interstellar",
-    "image": "/assets/media/icons/android.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
     "name": "Genshin Impact",
     "link": "https://now.gg/iframe/snippet?app_pkg=com.miHoYo.GenshinImpact&partner=interstellar",
     "image": "/assets/media/icons/genshinimpact.webp",
@@ -1611,18 +1575,6 @@
     "name": "Character AI",
     "link": "https://now.gg/iframe/snippet?app_pkg=ai.character.app&partner=interstellar",
     "image": "/assets/media/icons/characterai.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Aptoide",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.aptoide.partners.nowgg.store&partner=interstellar",
-    "image": "/assets/media/icons/aptoide.webp",
-    "categories": ["all", "emu", "android"]
-  },
-  {
-    "name": "Akinator",
-    "link": "https://now.gg/iframe/snippet?app_pkg=com.digidust.elokence.akinator.freemium&partner=interstellar",
-    "image": "/assets/media/icons/akinator.webp",
     "categories": ["all", "emu", "android"]
   },
   {
@@ -1766,13 +1718,13 @@
   },
   {
     "name": "2048",
-    "link": "/e/2048/index.html",
+    "link": "https://play2048.co/",
     "image": "/assets/media/icons/2048.webp",
     "categories": ["all", "local"]
   },
   {
     "name": "2048 Multitasking",
-    "link": "/e/2048-multitask/index.html",
+    "link": "https://geography-lesson.net/s1f.html",
     "image": "/assets/media/icons/2048.webp",
     "categories": ["all", "local"]
   },
