@@ -749,7 +749,7 @@
   },
   {
     "name": "Basketball Stars",
-    "link": "https://html5.gamedistribution.com/69d78d071f704fa183d75b4114ae40ec/",
+    "link": "https://basketballstars.pro/",
     "image": "/assets/media/icons/basketball-stars.webp",
     "categories": ["all"]
   },
@@ -766,18 +766,6 @@
     "categories": ["all"]
   },
   {
-    "name": "Biggie Cheese Fight",
-    "link": "https://scratch.mit.edu/projects/163771748/fullscreen",
-    "image": "/assets/media/icons/biggiecheese.webp",
-    "categories": ["all"]
-  },
-  {
-    "name": "Bitlife",
-    "link": "https://xlegends.github.io/bitlife/",
-    "image": "/assets/media/icons/bitlife.webp",
-    "categories": ["all"]
-  },
-  {
     "name": "BTD 4",
     "link": "https://en.gameslol.net/data/bloons-td-4/index.html",
     "image": "/assets/media/icons/btd4.webp",
@@ -787,6 +775,12 @@
     "name": "BuildNow.GG",
     "link": "https://games.crazygames.com/en_US/buildnow-gg/index.html",
     "image": "/assets/media/icons/build-now.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "!Gartic Phone For LEONARDO, LENZO.",
+    "link": "https://garticphone.com/",
+    "image": "/assets/media/icons/GPP.webp",
     "categories": ["all"]
   },
   {
