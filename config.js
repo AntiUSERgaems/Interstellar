@@ -4,6 +4,8 @@ const config = {
     // You can add multiple users by doing username: 'password'.
     john: "RE451784",
     joe: "frog",
+    mason: "sigma",
+    
   },
   routes: true, // Change this to false if you just want to host a bare server.
   local: true, // Change this to false to disable local assets.
