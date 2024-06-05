@@ -5,6 +5,7 @@ const config = {
     john: "RE451784",
     joe: "frog",
     mason: "sigma",
+    nikywithsmalldicky: "small",
     
   },
   routes: true, // Change this to false if you just want to host a bare server.
